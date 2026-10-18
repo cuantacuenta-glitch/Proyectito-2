@@ -1,0 +1,18 @@
+{
+  "client_process": [
+    "PokerClient.exe"
+  ],
+  "window_classes": [],
+  "title_regex": "(?i)hold'?em|omaha|stud|draw",
+  "min_table_size": [
+    300,
+    220
+  ],
+  "table_seats": 6,
+  "hero_seat": 0,
+  "target_fps": 10,
+  "capture_backend": "mss",
+  "ocr_min_conf": 0.45,
+  "debug_grid": true,
+  "debug_fps": true
+}
